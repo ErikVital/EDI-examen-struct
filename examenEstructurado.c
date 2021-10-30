@@ -1,3 +1,4 @@
+//Erik Vital Muñoz
 #include<stdio.h>
 #include<string.h>
 
